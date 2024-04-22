@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T01:15:43.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.7" etag="epTPA4gxlcOnx7c-TXVD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T02:16:57.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="EW1RItxKveP9Wc-6c-qP" version="24.2.7" type="github">
   <diagram name="Página-1" id="OPKHL-PTMxPMiVa4qWIl">
-    <mxGraphModel>
+    <mxGraphModel dx="2491" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="720" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="720" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Portifolio&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="25" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Introdução&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Contato&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Experiência&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Sobre&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Me contate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-14" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Me chamo Guilherme Altoé Tomazini&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="280" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="210" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Contate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Experiência&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-20" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="110" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-21" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 15px;&quot;&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;Conclui o Ensino Médio na escola Alternativa - São Mateus e atualmente estou cursando Ciência da Computação na&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 0px; padding: 0px; box-sizing: border-box; list-style: none; color: rgb(210, 47, 216); font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;UVV (Universidade Vila Velha)&lt;/span&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;, possuo conhecimento em&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; margin: 0px; padding: 0px; box-sizing: border-box; list-style: none; color: rgb(210, 47, 216); font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;C, HTML e CSS&lt;/span&gt;&lt;span style=&quot;font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;em busca de trabalho para melhorar minhas habilidades, também apresento interesse nas áreas de UX, UI e games e linguaguens como Flutter, PHP e Elixir&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-22" value="Olá!!" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="585" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-25" value="Contate me" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="364" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-26" value="Sobre mim" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Experiência prêvia&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TG7pPqF5tW64ksXT5Bha-19" target="TG7pPqF5tW64ksXT5Bha-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-29" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="820" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1060" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1140" width="640" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-34" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Sua mensagem&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1430" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1560" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1560" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1560" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TG7pPqF5tW64ksXT5Bha-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="455" y="1560" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
