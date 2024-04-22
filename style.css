@@ -86,10 +86,10 @@ span{
     max-width: 800px;
 }
 .home-content h3{
-    font-size: 43px;
+    font-size: 36px;
 }
 .home-content h1{
-    font-size: 62px;
+    font-size: 50px;
     line-height: 1.2;
 }
 .home-content p{
@@ -216,19 +216,19 @@ span{
     width: 100%;
     padding: 40px 0;
     background-color: rgb(8, 8, 8);
+    
 }
-.footer social{ 
+.footer .social{ 
     text-align: center;
     padding-bottom: 25px;
-    padding: 12% 8%;
     color: white;
 }
-.footer social a{
+.footer .social a{
     font-size: 24px;
     color: white;
     border: 2px solid rgb(210, 47, 216);
-    width: 60px;
-    height: 60px;
+    width: 40px;
+    height: 40px;
     line-height: 38px;
     display: inline-block;
     text-align: center;
